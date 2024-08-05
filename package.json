@@ -19,7 +19,7 @@
   "devDependencies": {
     "@nuxt/postcss8": "^1.1.3",
     "@nuxtjs/tailwindcss": "^6.2.0",
-    "nuxt": "3.0.0"
+    "nuxt": "3.12.4"
   },
   "dependencies": {
     "flowbite": "^2.4.1"
